@@ -56,3 +56,10 @@ Every data analyst has spent hours cleaning CSV files in Excel. CSV Commander do
 ---
 
 Created by HamdenTwins Digital
+---
+
+## Support
+
+If CSV Commander saves you time, consider [sponsoring](https://github.com/sponsors/ellitedom03) or buying me a coffee at [ko-fi.com/hamdentwins](https://ko-fi.com/hamdentwins).
+
+Created by [HamdenTwins Digital](https://payhip.com/HamdenTwinsDigital)
